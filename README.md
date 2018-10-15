@@ -1,6 +1,6 @@
 # expressvue
 
-> a vue add express add mongo addelement-ui project
+> express+mongodb+vue实现增删改查
 
 ## Build Setup
 

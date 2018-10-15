@@ -2,6 +2,8 @@
 
 > express+mongodb+vue实现增删改查
 
+[原文地址链接](https://www.imooc.com/article/33830?block)
+
 ## Build Setup
 
 ``` bash
